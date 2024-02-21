@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @CaptainVirgil
-- 👀 I’m interested in server admin
-- 🌱 I’m currently learning K8s, Docker, RHL, etc.
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me guardian@runegateway.com
+
